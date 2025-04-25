@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=FF7DFF&center=true&vCenter=true&width=435&lines=HI!+I'm+Abhiraj+Jaiswal+%F0%9F%91%8B;Frontend+Dev+%7C+Chill+Coder;Welcome+to+my+tech+universe+%F0%9F%8C%8C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=100&color=F5EEDD&center=true&vCenter=true&width=435&lines=HI!+I'm+Abhiraj+Jaiswal+%F0%9F%91%8B;Frontend+Dev+%7C+Chill+Coder;Welcome+to+my+tech+universe+%F0%9F%8C%8C" />
 </h1>
 
----
 
-## 🌸 About Me
+
+ ##'🏆 About Me
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/ca/d8/ff/cad8ff2f7ba3a2711cc7dbfbc3abb99d.jpg" width="180"  />
