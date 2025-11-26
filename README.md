@@ -59,7 +59,8 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=abhirajjaiswal010&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
 
 </div>
-![snake gif](https://github.com/abhirajjaiswal010/abhirajjaiswal010/blob/output/github-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/abhirajjaiswal010/abhirajjaiswal010/output/github-snake-dark.svg)
+
 ---
 
 ## 📱 Let's Connect
