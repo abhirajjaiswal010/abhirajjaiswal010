@@ -59,7 +59,14 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=abhirajjaiswal010&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
 
 </div>
-![snake animation](https://raw.githubusercontent.com/abhirajjaiswal010/abhirajjaiswal010/output/github-snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhirajjaiswal010/abhirajjaiswal010/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/abhirajjaiswal010/abhirajjaiswal010/output/github-snake.svg" alt="snake gif"/>
+  </picture>
+</p>
+
+
 
 ---
 
