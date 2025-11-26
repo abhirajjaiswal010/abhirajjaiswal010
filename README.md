@@ -47,23 +47,23 @@
 
 ## 🔥 GitHub Stats
 
-<div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=abhirajjaiswal010&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="160" />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhirajjaiswal010&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=abhirajjaiswal010&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
-
-</div>
 <p align="center">
+
+  <!-- Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhirajjaiswal010/abhirajjaiswal010/output/github-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/abhirajjaiswal010/abhirajjaiswal010/output/github-snake.svg" alt="snake gif"/>
   </picture>
+
+  <br/>
+
+  <!-- GitHub Stats with private contributions -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=abhirajjaiswal010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=abhirajjaiswal010&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+
 </p>
 
 
