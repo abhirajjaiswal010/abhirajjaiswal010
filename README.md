@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=100&color=F5EEDD&center=true&vCenter=true&width=435&lines=HI!+I'm+Abhiraj+Jaiswal+%F0%9F%91%8B;Frontend+Dev+%7C+Chill+Coder;Welcome+to+my+tech+universe+%F0%9F%8C%8C" />
 </h1>
 
-## 🏆 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="50" height="50" /> About Me
 
 <table align="center">
   <tr>
@@ -32,7 +32,10 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,cpp,java,figma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,redis,python,fastapi,tensorflow,pytorch,cpp,java,git,github,vscode,docker,linux,bash,aws,figma,sass,threejs,vite,npm,postman,graphql" />
+
+
+
 </p>
 
 ---
@@ -70,18 +73,12 @@
 
 ---
 
-## 📱 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's Connect
 
 <p align="center">
-  <a href="https://www.instagram.com/abhiraj.codes/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhirajjaiswal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abhiraj.dev01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.instagram.com/abhiiwins/"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhiraj-jaiswal-6a6139229/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abhirajjaiswal500@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
