@@ -1,10 +1,10 @@
 <!-- Lofi Anime Header -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c0/7a/0e/c07a0e54601516dbf8b399832636507a.gif" width="180" alt="Lofi Anime Coder" />
+  <img src="https://i.pinimg.com/1200x/10/ff/f3/10fff3d7a60635465dae82aedc84a12c.jpg" width="300" alt="Lofi Anime Coder" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=100&color=F5EEDD&center=true&vCenter=true&width=435&lines=HI!+I'm+Abhiraj+Jaiswal+%F0%9F%91%8B;Frontend+Dev+%7C+Chill+Coder;Welcome+to+my+tech+universe+%F0%9F%8C%8C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=60&color=F5EEDD&center=true&vCenter=true&width=550&lines=HI!+I'm+Abhiraj+Jaiswal;Just+a+Human+Who+Enjoys+Building+Things;Curious+Mind.+Clean+Code.+Big+Ideas.;Learning+Something+New+Every+Day;Turning+Ideas+Into+Real+Products;Currently+Exploring+Code%2C+AI+%26+Systems;Stay+Curious.+Keep+Building." />
 </h1>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="50" height="50" /> About Me
@@ -13,12 +13,20 @@
   <tr>
     <td>
 
-- 👨‍💻 I'm a **Computer Science student** on a mission to blend creativity + code  
-- 💻 Currently working on: **3D Portfolio**, **Skill Tracker** App  
-- 🎨 Into design, frontend magic, and chill UI/UX  
-- 📚 Learning: MERN Stack | Communication | Real-world Projects  
-- 🧠 Vibes: calm mind, clean code, consistent grind  
-- 🗓️ Dream: To be that dev who makes people say — “Damn, that’s cool!”
+☀ I'm a **Computer Science student** turning ideas into real-world products
+
+☀ Building with **Java | JavaScript | React | Next.js | MERN**
+
+☀ Exploring **DSA | System Design | Generative AI**
+
+☀ Into **clean code, creative UI, and thoughtful UX**
+
+☀ Learning, building, and improving **every single day**
+
+☀ My Portfolio  → **[Portfolio](https://abhidevspace.vercel.app/)**
+
+☀ Building things that are **useful, scalable, and fun to use**
+
 
 </td>
     <td>
